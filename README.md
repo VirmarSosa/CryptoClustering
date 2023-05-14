@@ -18,12 +18,12 @@ Apply the K-means algorithm to cluster Cryptocurrencies after PCA.
 ## Technologies Used
 The analysis was conducted using the following technologies:
 
-Pandas
-hvplot
-KMeans
-PCA
-StandardScaler
-Warnings
+- Pandas
+- hvplot
+- KMeans
+- PCA
+- StandardScaler
+- Warnings
 
 ## Running the Code
 To run the code, please follow these steps:
