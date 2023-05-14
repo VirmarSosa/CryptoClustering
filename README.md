@@ -29,6 +29,5 @@ Warnings
 To run the code, please follow these steps:
 
 Install the required dependencies using pip install.
-
 Clone the repository.
 Open the Jupyter Notebook "Crypto_Clustering.ipynb" and run the code.
