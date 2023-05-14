@@ -33,8 +33,3 @@ Install the required dependencies using pip install.
 Clone the repository.
 Open the Jupyter Notebook "Crypto_Clustering.ipynb" and run the code.
 
-
-## Deployment
-The application is deployed on GitHub Pages at https://sonila15.github.io/Airbnb-Melbourne/
-
-The source code is available in the repository at https://github.com/sonila15/Airbnb-Melbourne
