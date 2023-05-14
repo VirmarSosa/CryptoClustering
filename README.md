@@ -14,3 +14,27 @@ Perform a PCA to reduce the features to three principal components.
 Calculate the total explained variance. The result is 0.8950316570309841.
 Find the Best Value for k after PCA and the best K value is 4.
 Apply the K-means algorithm to cluster Cryptocurrencies after PCA.
+
+## Technologies Used
+The analysis was conducted using the following technologies:
+
+Pandas
+hvplot
+KMeans
+PCA
+StandardScaler
+Warnings
+
+## Running the Code
+To run the code, please follow these steps:
+
+Install the required dependencies using pip install.
+
+Clone the repository.
+Open the Jupyter Notebook "Crypto_Clustering.ipynb" and run the code.
+
+
+## Deployment
+The application is deployed on GitHub Pages at https://sonila15.github.io/Airbnb-Melbourne/
+
+The source code is available in the repository at https://github.com/sonila15/Airbnb-Melbourne
